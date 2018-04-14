@@ -621,6 +621,7 @@ namespace Algoritmo_Prestaciones_Ricardo_Pena
          Total_a_Recibir =Monto_a_pagar_PREAVISO+MONTO_A_PAGAR_CESANTIA+Monto_cesantia_antes_1992+Monto_a_pagar_VACACIONES+Pago_Salario_Navidad;
          Console.WriteLine(Nombre_Persona+Sueldo+Periodo_de_pago+Dias_Laborados+Meses_Laborados+Anios_Laborados+Monto_a_pagar_PREAVISO+MONTO_A_PAGAR_CESANTIA+Monto_cesantia_antes_1992+Monto_a_pagar_VACACIONES+Pago_Salario_Navidad);
          Console.WriteLine(Total_a_Recibir);
+         Console.WriteLine("Programa de Ricardo Valentin Peña Ovando Matrícula : 05-EIEN-1-074");
       }
    }
 }
